@@ -1,4 +1,4 @@
-&nbsp;&nbsp; 남산 타워가 보이는 환상적인 업무 공간,
+&nbsp;&nbsp; 남산 타워가 보이는 환상적인 업무 공간, <br>
 <img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150644.jpg" height="300">
 ![alt tag](https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150644.jpg){:height="36px" width="36px"
 일반 서버 250대 수준의 연산능력을 자랑하는 DGX-1을 비롯한 최고의 연구 장비, 
