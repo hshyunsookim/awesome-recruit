@@ -1,12 +1,16 @@
-&nbsp;&nbsp; 남산 타워가 보이는 환상적인 업무 공간, <br>
+남산 타워가 보이는 환상적인 업무 공간, <br>
 <img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150644.jpg" height="200">
+<br>
 
 일반 서버 250대 수준의 연산능력을 자랑하는 DGX-1을 비롯한 최고의 연구 장비, <br>
 <img src="https://github.com/SKTBrain/awesome-recruit/blob/master/14713007_318099875227500_2006563244611974202_o.jpg" height="200">
+<br>
 
-수면 캡슐과 빈백,
+당신의 휴식을 책임질 수면 캡슐과 빈백,
 <img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150756.jpg" height="200">
 <img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150741.jpg" height="200">
+<br>
+
 서서 일할 수 있는 책상, 
 그리고 파티션으로 나뉜 답답한 사무실 대신 시끌벅적한 토론 중심의 개방형 사무실이 있는 회사가 있다면 어떨까요? 
 
