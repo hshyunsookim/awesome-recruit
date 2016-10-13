@@ -4,7 +4,7 @@
 
 일반 서버 250대 수준의 연산능력을 자랑하는 DGX-1을 비롯한 최고의 연구 장비, <br>
 <img src="https://github.com/SKTBrain/awesome-recruit/blob/master/14713007_318099875227500_2006563244611974202_o.jpg" height="200">
-<br>
+<br><br>
 
 당신의 휴식을 책임질 수면 캡슐과 빈백,
 <img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150756.jpg" height="200">
